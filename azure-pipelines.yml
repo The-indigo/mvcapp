@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  name: lab4pool
+  name: poolmvc
   demands:
   - msbuild
   - visualstudio
